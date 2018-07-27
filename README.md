@@ -1,2 +1,2 @@
 # Scala
-# Scala
+Just some Scala exercises 
