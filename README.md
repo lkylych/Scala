@@ -1,2 +1,3 @@
-# Go
+# Scala
+
 Some scala exercises
